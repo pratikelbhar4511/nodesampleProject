@@ -6,8 +6,7 @@
 trigger:
 - main
 
-pool:
-  svc-dev-touch
+pool: svc-dev-touch
 
 steps:
 - task: NodeTool@0
