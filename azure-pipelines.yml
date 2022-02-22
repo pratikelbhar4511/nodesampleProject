@@ -6,7 +6,8 @@
 trigger:
 - main
 
-pool: svc-dev-touch
+pool: 
+     vmImage :'ubuntu-latest'
 
 steps:
 - task: NodeTool@0
