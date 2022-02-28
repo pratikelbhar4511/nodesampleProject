@@ -1,10 +1,10 @@
 {
 	 "connectionString" :
 {
-	"server": "192.168.2.80", 
-	"database": "MintFDIDapada",
-	"user": "sa",
-	"password": "Admin@123",
+	"server": "bieno-df-dev-sqlsrv-01.database.windows.net", 
+	"database": "bieno-prjtouch-sqldb",
+	"user": "PRJTouch",
+	"password": "PrJ&T0uch*321",
 	"port": 1433,
 	"options": {
 		"encrypt": false,
